@@ -1,0 +1,6 @@
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\ReadAndWriteData\bin\Debug\ReadAndWriteData.dll
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\ReadAndWriteData\bin\Debug\ReadAndWriteData.pdb
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\ReadAndWriteData\obj\Debug\ReadAndWriteData.csprojAssemblyReference.cache
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\ReadAndWriteData\obj\Debug\ReadAndWriteData.csproj.CoreCompileInputs.cache
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\ReadAndWriteData\obj\Debug\ReadAndWriteData.dll
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\ReadAndWriteData\obj\Debug\ReadAndWriteData.pdb

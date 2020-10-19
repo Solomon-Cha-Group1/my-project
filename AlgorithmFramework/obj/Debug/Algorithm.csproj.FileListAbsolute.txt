@@ -1,0 +1,6 @@
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\AlgorithmFramework\bin\Debug\AlgorithmFramework.dll
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\AlgorithmFramework\bin\Debug\AlgorithmFramework.pdb
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\AlgorithmFramework\obj\Debug\Algorithm.csprojAssemblyReference.cache
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\AlgorithmFramework\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\AlgorithmFramework\obj\Debug\AlgorithmFramework.dll
+A:\!שייך לקיפ\כל מיני\סמינר\יד\פרויקט\פרויקט דמה\BaseProject\AlgorithmFramework\obj\Debug\AlgorithmFramework.pdb

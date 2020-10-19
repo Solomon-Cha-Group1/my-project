@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\BaseProject.csproj": {}
+  },
+  "projects": {
+    "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj": {
+      "restore": {
+        "projectUniqueName": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj",
+        "projectName": "Algorithm",
+        "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\BaseProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\BaseProject.csproj",
+        "projectName": "BaseProject",
+        "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\BaseProject.csproj",
+        "packagesPath": "C:\\Users\\Perl\\.nuget\\packages\\",
+        "outputPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Perl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj": {
+                "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj"
+              },
+              "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+                "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+      "restore": {
+        "projectUniqueName": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj",
+        "projectName": "ReadAndWriteData",
+        "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
