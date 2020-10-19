@@ -11,7 +11,7 @@ namespace BaseProject
             Console.WriteLine("Hello World!");
            ReadAndWriteData.Class1 c = new ReadAndWriteData.Class1();
             c.wr();
-            Console.WriteLine("version2");
+            Console.WriteLine("my project");
         }
     }
 }

@@ -1,46 +1,50 @@
 {
   "format": 1,
   "restore": {
-    "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\BaseProject.csproj": {}
+    "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\BaseProject\\BaseProject.csproj": {}
   },
   "projects": {
-    "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj": {
+    "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\AlgorithmFramework\\Algorithm.csproj": {
       "restore": {
-        "projectUniqueName": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\AlgorithmFramework\\Algorithm.csproj",
         "projectName": "Algorithm",
-        "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj"
+        "projectPath": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\AlgorithmFramework\\Algorithm.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\BaseProject.csproj": {
+    "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\BaseProject\\BaseProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\BaseProject.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\BaseProject\\BaseProject.csproj",
         "projectName": "BaseProject",
-        "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\BaseProject.csproj",
-        "packagesPath": "C:\\Users\\Perl\\.nuget\\packages\\",
-        "outputPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\BaseProject\\obj\\",
+        "projectPath": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\BaseProject\\BaseProject.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\BaseProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Perl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj": {
-                "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\AlgorithmFramework\\Algorithm.csproj"
+              "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\AlgorithmFramework\\Algorithm.csproj": {
+                "projectPath": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\AlgorithmFramework\\Algorithm.csproj"
               },
-              "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
-                "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj"
+              "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+                "projectPath": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj"
               }
             }
           }
@@ -72,11 +76,11 @@
         }
       }
     },
-    "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+    "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
       "restore": {
-        "projectUniqueName": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj",
         "projectName": "ReadAndWriteData",
-        "projectPath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj"
+        "projectPath": "C:\\Users\\1\\Desktop\\school\\יד סמסטר א\\פרוייקט\\BaseProject\\ReadAndWriteData\\ReadAndWriteData.csproj"
       },
       "frameworks": {
         "net472": {}
