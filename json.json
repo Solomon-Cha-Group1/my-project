@@ -1,0 +1,185 @@
+{
+    "woreds": {
+        "select": {
+            "sql": "select",
+            "oracle": "select",
+            "Hebrew": [ "בחר", "הצג" ]
+        },
+
+        "from": {
+            "sql": "from",
+            "oracle": "from",
+            "Hebrew": [ "מ", "מתוך","של" ]
+        },
+
+        "where": {
+            "sql": "where",
+            "oracle": "where",
+            "Hebrew": [ "כש", "בתנאי ש", "אם", "כאשר", "לכל מי ש", "רק עבור", "עבור" ]
+        }
+    },
+    "Functions": {
+        "numbers": {
+            "AbsoluteValue": {
+                "sql": "ABS",
+                "oracle": "ABS",
+                "Hebrew": "ערך מוחלט"
+            },
+
+            "DownwardCircle": {
+                "sql": "FROOR",
+                "oracle": "FROOR",
+                "Hebrew": "מעוגל כלפי מטה"
+            },
+
+            "UpnwardCircle": {
+                "sql": "CEILING",
+                "oracle": "CEIL",
+                "Hebrew": "מעוגל כלפי מעלה"
+            },
+
+            "Exponentiation": {
+                "sql": "POWER",
+                "oracle": "POWER",
+                "Hebrew": "בחזקת"
+            },
+
+            "Round": {
+                "sql": "ROUND",
+                "oracle": "ROUND",
+                "Hebrew": "ספרות אחרי הנקודה"
+            },
+
+            "MinusOrPlus": {
+                "sql": "SIGN",
+                "oracle": "SIGN",
+                "Hebrew": ["גדול מאפס" ,"קטן מאפס","שלילי", "חיובי" ]
+            },
+
+            "SquareRoot": {
+                "sql": "SQRT",
+                "oracle": "SQRT",
+                "Hebrew": "שורש"
+            }
+        },
+        "string": {
+
+            "Length": {
+                "sql": "LEN",
+                "oracle": "LENGTH",
+                "Hebrew": "אורך המשפט"
+            },
+
+            "LowerCase": {
+                "sql": "LOWER",
+                "oracle": "LOWER",
+                "Hebrew": "אותיות קטנות"
+            },
+
+            "UpperCase": {
+                "sql": "UPPER",
+                "oracle": "UPPER",
+                "Hebrew": "אותיות גדולות"
+            },
+
+            "RightCut": {
+                "sql": "RTRIM",
+                "oracle": "RTRIM",
+                "Hebrew": "חתוך מימין"
+            },
+
+            "Replace": {
+                "sql": "STUFF",
+                "oracle": "REPLACE",
+                "Hebrew": "החלף את כל ה"
+            },
+
+            "Sub-string" {
+                "sql": "SUBSTRING",
+                "oracle": "SUBSTR",
+                "Hebrew": "המחרוזת החל מהמקום ה"
+            }
+        },
+
+        "dateTime": {
+
+            "AddToDate": {
+                "sql": "DATEADD",
+                "oracle": "+",
+                "Hebrew": [ "בעוד", "ימים מהיום" ]
+            },
+
+            "NameDatePart": {
+                "sql": "DATENAME",
+                "oracle": "TO_CHAR",
+                "Hebrew": "במילים"
+            },
+
+            "DatePart": {
+                "sql": "DATEPART",
+                "oracle": "TO_NUMBER(TO_CHAR())",
+                "Hebrew": "חלק התאריך"
+            },
+
+            "CurrentDate": {
+                "sql": "GETDATE",
+                "oracle": "SYSDATE",
+                "Hebrew": "היום"
+            }
+        },
+
+        "Operands" {
+
+            "greater": {
+                "sql": ">",
+                "oracle": ">",
+                "Hebrew": "גדול"
+            },
+
+            "less": {
+                "sql": "<",
+                "oracle": "<",
+                "Hebrew": "קטן"
+            },
+
+            "Equal": {
+                "sql": "=",
+                "oracle": "=",
+                "Hebrew": "שווה"
+            },
+
+            "greaterEqual": {
+                "sql": ">=",
+                "oracle": ">=",
+                "Hebrew": "גדול שווה"
+            },
+
+            "lessEqual": {
+                "sql": "<=",
+                "oracle": "<=",
+                "Hebrew": "קטן שווה"
+            },
+
+            "notEqual": {
+                "sql": "!=",
+                "oracle": "!=",
+                "Hebrew": "לא שווה"
+            },
+
+            "AnotherCondition": {
+                "sql": "and",
+                "oracle": "and",
+                "Hebrew": [ "וגם", "מקיים גם את" ]
+            },
+
+            "differentCondition": {
+                "sql": "or",
+                "oracle": "or",
+                "Hebrew": [ "או ש", "או שמתקיים" ]
+            }
+        }
+
+
+    }
+
+}
